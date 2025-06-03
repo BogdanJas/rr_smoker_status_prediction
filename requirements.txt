@@ -3,3 +3,4 @@ notebook
 pandas
 seaborn
 scipy
+scikit-learn
